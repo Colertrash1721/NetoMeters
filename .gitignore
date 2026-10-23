@@ -40,6 +40,6 @@ next-env.d.ts
 
 #Agents
 *.pid
-frontend/AGENTS.MD
-frontend/CLAUDE.MD
-frontend/README.MD
+frontend/AGENTS.md
+frontend/CLAUDE.md
+frontend/README.md
