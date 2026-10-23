@@ -97,8 +97,8 @@ netometers/
 
 ## Author
 
-**Steven Cruz**
-**ESC-Group**
+- **Steven Cruz**
+- **ESC-Group**
 
 ---
 
